@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-beta-amber-88.vercel.app">PORTFOLIO</a> &nbsp; / &nbsp;
+  <a href="https://portfolio-beta-amber-88.vercel.app">CLIENT WORK</a> &nbsp; / &nbsp;
   <a href="#03--selected-missions">PROJECTS</a> &nbsp; / &nbsp;
   <a href="https://github.com/qalmurzayeev?tab=repositories">REPOSITORIES</a>
 </p>
@@ -71,7 +71,7 @@ const developer = {
 </p>
 
 <p align="center">
-  <a href="https://portfolio-beta-amber-88.vercel.app"><strong>Explore my portfolio ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://portfolio-beta-amber-88.vercel.app"><strong>Тапсырысқа жасалған сайт ↗</strong></a> &nbsp; · &nbsp;
   <a href="https://github.com/qalmurzayeev"><strong>Find me on GitHub ↗</strong></a>
 </p>
 
