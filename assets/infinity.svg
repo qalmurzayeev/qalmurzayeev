@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="90" viewBox="0 0 960 90"><defs><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs><style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Courier New',monospace}@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+ <rect x="1" y="1" width="958" height="88" rx="12" fill="#08121e" stroke="#16344d"/>
+ <circle cx="29" cy="25" r="4" fill="#38bdf8"/><circle cx="43" cy="25" r="4" fill="#2563eb"/><circle cx="57" cy="25" r="4" fill="#29435c"/>
+ <text x="80" y="29" class="mono" font-size="13" fill="#799ab4">qalmurzayeev / workspace</text>
+ <text x="28" y="65" class="mono" font-size="19" fill="#f1f7ff"><tspan fill="#38bdf8">$ </tspan>build --without-limits<tspan fill="#38bdf8" class="motion"> ▌<animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+ <path d="M778 44 C800 12 823 12 847 44 C871 76 894 76 916 44 C894 12 871 12 847 44 C823 76 800 76 778 44" fill="none" stroke="#123550" stroke-width="3"/>
+ <path d="M778 44 C800 12 823 12 847 44 C871 76 894 76 916 44 C894 12 871 12 847 44 C823 76 800 76 778 44" fill="none" stroke="url(#line)" stroke-width="3" stroke-dasharray="65 360" class="motion"><animate attributeName="stroke-dashoffset" from="425" to="0" dur="5s" repeatCount="indefinite"/></path>
+</svg>

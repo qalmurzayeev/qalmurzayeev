@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="176" viewBox="0 0 460 176"><defs><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs><style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Courier New',monospace}@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+ <rect x="1" y="1" width="458" height="174" rx="14" fill="#091725" stroke="#173c58"/>
+ <path d="M1 42V15Q1 1 15 1H124" fill="none" stroke="#38bdf8" stroke-width="2"/>
+ <text x="24" y="32" class="mono" font-size="11" letter-spacing="2" fill="#7fa9c5">MISSION / 01</text>
+ <text x="24" y="76" font-size="30" font-weight="800" fill="#edf8ff">EDUFLOW</text>
+ <text x="24" y="104" font-size="14" fill="#99bad0">Telegram Mini App / course platform</text>
+ <path d="M24 123h410" stroke="#18384e"/>
+ <text x="24" y="148" class="mono" font-size="11" fill="#38bdf8">REACT   ·   NODE.JS   ·   POSTGRESQL</text>
+ <g transform="translate(389,19)" stroke="#3097ce" fill="none" stroke-width="1.6" stroke-linejoin="round"><path d="M4 11L24 2l20 9-20 9z M11 15v14c9 8 19 8 27 0V15 M44 11v19"/></g>
+</svg>

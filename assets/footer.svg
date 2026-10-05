@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="112" viewBox="0 0 960 112"><defs><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs><style>text{font-family:'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Courier New',monospace}@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+ <rect x="1" y="1" width="958" height="110" rx="12" fill="#07121e" stroke="#16354b"/>
+ <path d="M31 40h100 M829 40h100" stroke="#184762"/>
+ <text x="480" y="47" text-anchor="middle" class="mono" font-size="21" fill="#d9f3ff" letter-spacing="3">IDEA → CODE → EXPERIENCE</text>
+ <text x="480" y="79" text-anchor="middle" class="mono" font-size="12" fill="#619cc0" letter-spacing="2">QALMURZAYEEV / BUILD WITHOUT LIMITS</text>
+ <circle cx="32" cy="40" r="3" fill="#38bdf8" class="motion"><animate attributeName="cx" values="32;131;32" dur="6s" repeatCount="indefinite"/></circle>
+</svg>

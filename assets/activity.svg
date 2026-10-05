@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="252" viewBox="0 0 960 252">
+<style>text{font-family:Segoe UI,Arial,sans-serif}.mono{font-family:Consolas,Courier New,monospace}</style>
+<rect x="1" y="1" width="958" height="250" rx="14" fill="#07121e" stroke="#173c58"/>
+<text x="28" y="31" class="mono" font-size="12" letter-spacing="2" fill="#80a6c3">PUBLIC SIGNAL / GITHUB</text>
+<text x="28" y="99" font-size="49" font-weight="800" fill="#edf8ff">36</text><text x="28" y="126" class="mono" font-size="12" fill="#38bdf8">PUBLIC REPOSITORIES</text>
+<text x="338" y="99" font-size="49" font-weight="800" fill="#edf8ff">36</text><text x="338" y="126" class="mono" font-size="12" fill="#38bdf8">ORIGINAL REPOSITORIES</text>
+<text x="648" y="99" font-size="49" font-weight="800" fill="#edf8ff">5</text><text x="648" y="126" class="mono" font-size="12" fill="#38bdf8">PRIMARY LANGUAGES</text>
+<path d="M28 149h904" stroke="#17374e"/>
+<text x="28" y="176" class="mono" font-size="11" fill="#88abc4">REPOSITORIES BY PRIMARY LANGUAGE</text>
+<rect x="28.00" y="187" width="467.59" height="7" fill="#38bdf8"/>
+<rect x="495.59" y="187" width="218.21" height="7" fill="#3b82f6"/>
+<rect x="713.79" y="187" width="93.52" height="7" fill="#60a5fa"/>
+<rect x="807.31" y="187" width="93.52" height="7" fill="#93c5fd"/>
+<rect x="900.83" y="187" width="31.17" height="7" fill="#b6dfff"/>
+<text x="28" y="218" class="mono" font-size="13" fill="#d0e8f7">HTML 15   /   TypeScript 7   /   JavaScript 3   /   CSS 3   /   Dart 1</text>
+<text x="932" y="239" text-anchor="end" class="mono" font-size="10" fill="#678ba6">PUBLIC DATA / UPDATED 2026-10-05 UTC</text></svg>
