@@ -7,11 +7,11 @@
 <text x="648" y="99" font-size="49" font-weight="800" fill="#edf8ff">6</text><text x="648" y="126" class="mono" font-size="12" fill="#38bdf8">PRIMARY LANGUAGES</text>
 <path d="M28 149h904" stroke="#17374e"/>
 <text x="28" y="176" class="mono" font-size="11" fill="#88abc4">REPOSITORIES BY PRIMARY LANGUAGE</text>
-<rect x="28.00" y="187" width="438.30" height="7" fill="#38bdf8"/>
-<rect x="466.30" y="187" width="191.76" height="7" fill="#3b82f6"/>
-<rect x="658.06" y="187" width="109.58" height="7" fill="#60a5fa"/>
+<rect x="28.00" y="187" width="410.91" height="7" fill="#38bdf8"/>
+<rect x="438.91" y="187" width="191.76" height="7" fill="#3b82f6"/>
+<rect x="630.67" y="187" width="136.97" height="7" fill="#60a5fa"/>
 <rect x="767.64" y="187" width="109.58" height="7" fill="#93c5fd"/>
 <rect x="877.21" y="187" width="27.39" height="7" fill="#b6dfff"/>
 <rect x="904.61" y="187" width="27.39" height="7" fill="#38bdf8"/>
-<text x="28" y="218" class="mono" font-size="13" fill="#d0e8f7">HTML 16   /   TypeScript 7   /   JavaScript 4   /   CSS 4   /   Python 1   /   Dart 1</text>
-<text x="932" y="239" text-anchor="end" class="mono" font-size="10" fill="#678ba6">PUBLIC DATA / UPDATED 2026-11-21 UTC</text></svg>
+<text x="28" y="218" class="mono" font-size="13" fill="#d0e8f7">HTML 15   /   TypeScript 7   /   CSS 5   /   JavaScript 4   /   Python 1   /   Dart 1</text>
+<text x="932" y="239" text-anchor="end" class="mono" font-size="10" fill="#678ba6">PUBLIC DATA / UPDATED 2026-11-22 UTC</text></svg>
